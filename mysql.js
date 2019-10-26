@@ -4,7 +4,7 @@ var databaseConfig= {
     port : 3306,//端口号
     database : 'my_database',//数据库名
     user : 'root',//数据库用户名
-    password : 'hjj57885362'//数据库密码
+    password : 'admin123'//数据库密码
 }
 
 //向外暴露方法
